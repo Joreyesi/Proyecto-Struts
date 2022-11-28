@@ -1,0 +1,12 @@
+
+https://www.codejava.net/frameworks/struts/struts2-beginner-tutorial-eclipse-tomcat-xml
+
+
+https://www.apuntesdejava.com/2007/02/struts-2-en-eclipse-parte-1.html
+
+https://struts.apache.org/getting-started/hello-world-using-struts2
+
+
+https://programmerclick.com/article/93171448366/
+
+
