@@ -8,6 +8,8 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
+#https://www.codejava.net/frameworks/struts/struts2-beginner-tutorial-eclipse-tomcat-xml
+
 
 ### Pre-requisitos
 
@@ -63,9 +65,9 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Eclipse](https://www.eclipse.org/downloads/) - Herramienta de Programación
+* [Struts](https://struts.apache.org/download.cgi) - Framework Usado
+* [Apache Tomcat](https://tomcat.apache.org/download-10.cgi) - Servidor
 
 ## Wiki
 
